@@ -1,0 +1,161 @@
+VCP.XDATA#5f4d435305main#09TTTGuide#00000031main############T |	VCP.XDATA#5f4d435309TTTfiles#09TTTGuide#00000031TTTfiles#####
+TicTacToe f##r den Classpad II					TicTacToe f##r den Classpad II
+
+TicTacToe, auch XOO genannt 					TicTacToe, auch XOO genannt 
+ist ein Spiel f##r zwei Spieler. 				ist ein Spiel f##r zwei Spieler. 
+Es wird auf einem 3##3 Felder 					Es wird auf einem 3##3 Felder 
+gro##em Feld gespielt. Wenn ein					gro##em Feld gespielt. Wenn ein
+Spieler an der reihe ist 					Spieler an der reihe ist 
+zeichnet er sein Symbol (X 					zeichnet er sein Symbol (X 
+oder O) in ein leeres Feld. 					oder O) in ein leeres Feld. 
+Wer drei Felder in einer Reihe					Wer drei Felder in einer Reihe
+(Waagerecht, Senkrecht oder 					(Waagerecht, Senkrecht oder 
+Diagonal) hat gewinnt.						Diagonal) hat gewinnt.
+
+Nach dem Starten des 						Nach dem Starten des 
+Programms wird gefragt, ob 					Programms wird gefragt, ob 
+das aktuelle Spiel vortgesetzt 					das aktuelle Spiel vortgesetzt 
+wird oder ob das Spiel neu 					wird oder ob das Spiel neu 
+begonnen wird. Hierf##r muss 					begonnen wird. Hierf##r muss 
+man (ab Ver 3.3) nur die 					man (ab Ver 3.3) nur die 
+zugeordnete Taste dr##cken.					zugeordnete Taste dr##cken.
+
+Der Spieler, der an der Reihe 					Der Spieler, der an der Reihe 
+ist wird durch den Farbigen 					ist wird durch den Farbigen 
+Strich unten im Bildschirm 					Strich unten im Bildschirm 
+gezeigt (ab Ver. 2.3; bei 					gezeigt (ab Ver. 2.3; bei 
+Ver. 2.2 oben). Um ein Feld					Ver. 2.2 oben). Um ein Feld
+auszuw##hlen tippt man auf das				      |	auszuw##hlen  bet##tigt man die zugeordnete Zahlentaste auf 
+Feld auf  dem Touchscreen 				      <
+oder bet##tigt man die 					      <
+zugeordnete Zahlentaste auf 				      <
+dem Tastenfeld: 						dem Tastenfeld: 
+
+ 7 | 8 | 9							 7 | 8 | 9
+---+---+---							---+---+---
+ 4 | 5 | 6							 4 | 5 | 6
+---+---+---							---+---+---
+ 1 | 2 | 3							 1 | 2 | 3
+
+Es k##nnen keine anderen 					Es k##nnen keine anderen 
+Tasten zur Bedienung 					      |	Tasten und auch nicht der 
+genutzt werden!						      |	Touchscreen zur Bedienung 
+							      |	genutzt werden! 
+Es gibt die M##glchkeit, auch 				      |
+mit einem Spieler gegen den 				      |	Ab Version 3.1 gibt es die 
+Classpad II zu spielen. 				      |	M##glchkeit, auch mit einem 
+							      >	Spieler gegen den Classpad II 
+							      >	zu spielen. 
+Hierf##r beim starten eines 					Hierf##r beim starten eines 
+neuen Spieles die Spielerzahl angeben (1: gegen Classpad; 	neuen Spieles die Spielerzahl angeben (1: gegen Classpad; 
+2: mit zwei Spielern).						2: mit zwei Spielern).
+							      |	Um gegen einen Spieler an 
+Bitte beachten:						      |	einem anderen Rechner ueber
+TicTacToe ("TTTxxxx") 					      |	das Kabel zu Spielen, hier 3
+verlangt die Datei "TTT_Note",				      |	auswaehlen.
+damit es funktioniert.					      <
+
+Versionen und ##nderungen:					Versionen und ##nderungen:
+
+1.1:								1.1:
+   Spielfeld (noch keine 					   Spielfeld (noch keine 
+   Bedienung m##glich.)						   Bedienung m##glich.)
+
+1.2:								1.2:
+   Bedienung (mit den Tasten)					   Bedienung (mit den Tasten)
+
+1.3:								1.3:
+   Spielstand und erkennen 					   Spielstand und erkennen 
+   von 3 in einer Reihe						   von 3 in einer Reihe
+
+2.1:								2.1:
+   Schneller (kein l##schen des					   Schneller (kein l##schen des
+   Bildschirmes w##hrend des 					   Bildschirmes w##hrend des 
+   Spiels)							   Spiels)
+
+2.2:								2.2:
+   Anzeige des aktuellen 					   Anzeige des aktuellen 
+   Spielers							   Spielers
+
+2.3:								2.3:
+   Gr####eres Spielfeld durch 					   Gr####eres Spielfeld durch 
+   Pause um in den 						   Pause um in den 
+   Vollbildmodus zu wechseln					   Vollbildmodus zu wechseln
+
+   Verlangen des lesens eines 					   Verlangen des lesens eines 
+   Hinweises und anzeigen 					   Hinweises und anzeigen 
+   dieser Anleitung beim 					   dieser Anleitung beim 
+   ersten Ausf##hren						   ersten Ausf##hren
+
+3.1:								3.1:
+   Nur automatischer Gegner 					   Nur automatischer Gegner 
+   (Hindert den Spieler, 					   (Hindert den Spieler, 
+   versuvht nicht zu 						   versuvht nicht zu 
+   gewinnen)							   gewinnen)
+
+3.2:								3.2:
+   Automatischer Gegner, 					   Automatischer Gegner, 
+   wieder 2 Spieler m##glich					   wieder 2 Spieler m##glich
+   (Autom. Gegner versucht 					   (Autom. Gegner versucht 
+   zu gewinnen und hindert 					   zu gewinnen und hindert 
+   den Spieler am Gewinnen)					   den Spieler am Gewinnen)
+
+3.3:								3.3:
+   Neues, schnelleres und 					   Neues, schnelleres und 
+   einfacheres Starten durch 					   einfacheres Starten durch 
+   neues Menu.							   neues Menu.
+
+3.4:								3.4:
+   M##glichkeit die Resize-Info					   M##glichkeit die Resize-Info
+   zu ##berdpringen 						   zu ##berdpringen 
+   (0##NoResize)						   (0##NoResize)
+
+3.5:								3.5:
+   Pause einstellbar 						   Pause einstellbar 
+   (1000##Waiting [Zeit]					   (1000##Waiting [Zeit]
+   true##Waiting [Pause])					   true##Waiting [Pause])
+   Fehlerbehebung						   Fehlerbehebung
+
+3.6:								3.6:
+   Fehlermeldung bei 						   Fehlermeldung bei 
+   nichtexistierender Datei 					   nichtexistierender Datei 
+   "TTT_Note"							   "TTT_Note"
+
+3.6:								3.6:
+   Pause einstellbar 						   Pause einstellbar 
+   (1000##Waiting [Zeit]					   (1000##Waiting [Zeit]
+   FALSE##Waiting [Pause]					   FALSE##Waiting [Pause]
+   TRUE##Waiting [Button 					   TRUE##Waiting [Button 
+   EXE])							   EXE])
+
+4.1:								4.1:
+   Bedienung ##ber den 						   Bedienung ##ber den 
+   TOUCHSCREEN und 						   TOUCHSCREEN und 
+   weiterhin ##ber Tasten					   weiterhin ##ber Tasten
+
+4.6:							      |	4.2:
+   ##berspringen des 					      |	   Weitere Verbesserungen
+   kalibrierens des 					      |
+   Touchscreens						      |	4.3:
+#####d1							      \	   ##ffnen des Koordinaten-
+							      >	   systems nach dem Text, 
+							      >	   kein wechseln des Fensters 
+							      >	   vor "Resize"
+							      >	5.0:
+							      >	   Es m##ssen keine 
+							      >	   ViewWindow-Werte
+							      >	   eingegeben werden, nur
+							      >	   Resize bet##tigt werden.
+							      >	6.0:
+							      >	   2 Spieler ##ber den Seriell-
+							      >	   len Port.
+							      >	   Kein pr##fen der existenz
+							      >	   irgendwelcher Dateien.
+							      >	6.1:
+							      >	   Das Programm mit "#c" 
+							      >	   beenden anstatt mit "Clear"
+							      >	6.2:
+							      >	   F##r Classpas 300 (s/w)
+							      >	7.0
+							      >	   AI kann Spiel beginnen
+							      >	####a0
